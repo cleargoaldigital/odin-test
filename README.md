@@ -14,3 +14,5 @@ I am really excited and can't wait to finish the course in record time.
 I am very grateful to the Odin Project.
 
 Here I come again.
+
+I have just learnt how to add descriptive message to a commit from the CL.
